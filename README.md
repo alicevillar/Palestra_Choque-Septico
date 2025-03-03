@@ -1,2 +1,3 @@
-# Choque_S-ptico
-Palestra - Choque Séptico: Um Desafio no Atendimento Médico
+# Choque Séptico
+Choque Séptico: Um Desafio no Atendimento Médico
+
