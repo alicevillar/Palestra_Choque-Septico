@@ -8,7 +8,7 @@ arrow_forward: Palestrantes acadêmicos de medicina: <br>
 Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Caetano
  <br> 
 arrow_forward: Revisão científica: Dr. Renan Azevedo <br> 
- • Titular do Colégio Brasileiro de Cirurgiões <br>  • Staff de Cirurgia Geral – Hospital Central do Exército e Hospital Geral de Nova Iguaçu/RJ
+* Titular do Colégio Brasileiro de Cirurgiões <br>  *  Staff de Cirurgia Geral – Hospital Central do Exército e Hospital Geral de Nova Iguaçu/RJ
 
 ## 📖 Baixe o material exclusivo da palestra, com conteúdo aprofundado sobre:
   
