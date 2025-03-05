@@ -4,10 +4,10 @@
 
 >  Bem-vindo(a) ao repositório oficial da palestra "Choque Séptico – Um Desafio no Atendimento Médico". Este espaço foi criado para disponibilizar todos os materiais visuais de apoio utilizados durante a apresentação, garantindo que você possa revisar e aprofundar seu conhecimento sobre um dos maiores desafios da medicina intensiva.
 
-> :small_blue_diamond: Palestrantes acadêmicos de medicina:  
+ :small_blue_diamond: Palestrantes acadêmicos de medicina:  
 Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Caetano • Hélio Oliveira
  <br> 
-> :small_blue_diamond: Revisão científica: Dr. Renan Azevedo <br> 
+:small_blue_diamond: Revisão científica: Dr. Renan Azevedo <br> 
 * Titular do Colégio Brasileiro de Cirurgiões <br>
 *  Staff de Cirurgia Geral – Hospital Central do Exército e Hospital Geral de Nova Iguaçu/RJ
 
