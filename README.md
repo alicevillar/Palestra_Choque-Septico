@@ -19,12 +19,12 @@ Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Cae
 
 
 ### REFERÊNCIAS
-Coelho BFL, Murad LS, Bragança RD. Manual de Urgências e Emergências. Rede de Ensino Terzi, 2020.
-Kumar, A. et al. (2006). "Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock.  Critical Care Medicine.
+* Coelho BFL, Murad LS, Bragança RD. Manual de Urgências e Emergências. Rede de Ensino Terzi, 2020.
+* Kumar, A. et al. (2006). "Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock.  Critical Care Medicine.
 Surviving Sepsis Campaign Guidelines (2021).
-Hospital Sírio-Libanês: Protocolo de Sepse e Choque Séptico.
-Forrester, J. D. (2024, abril). Sepse e choque séptico. Manual MSD Versão para a Família. 
-FoAssociação de Medicina Intensiva Brasileira, & Instituto Latino Americano de Sepse. (s.d.). Conceitos e Epidemiologia da Sepse (A. T. Bafi & F. R. Machado, Coord.). Recuperado de https://cssjd.org.br/imagens/editor/files/2019/Maio/sepse%281%29.pdf
+* Hospital Sírio-Libanês: Protocolo de Sepse e Choque Séptico.
+* Forrester, J. D. (2024, abril). Sepse e choque séptico. Manual MSD Versão para a Família. 
+* FoAssociação de Medicina Intensiva Brasileira, & Instituto Latino Americano de Sepse. (s.d.). Conceitos e Epidemiologia da Sepse (A. T. Bafi & F. R. Machado, Coord.). Recuperado de https://cssjd.org.br/imagens/editor/files/2019/Maio/sepse%281%29.pdf
 
 
 
