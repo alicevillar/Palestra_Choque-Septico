@@ -2,11 +2,19 @@
  
 💡 Atualize seus conhecimentos e aprofunde-se no manejo da sepse e do choque séptico!
 
+
+>  Welcome to the official repository for the paper titled "Supervised Machine Learning Algorithms for Predicting Student Dropout and Academic Success: A Comparative Study." This repository contains the necessary code and data to ensure that the research project is transparent and reproducible.  
+
+
+
 📖 Baixe o material exclusivo da palestra, com conteúdo aprofundado sobre:
-✔ Definição e evolução da sepse
-✔ Principais fatores de risco e diagnóstico
-✔ Fisiopatologia e progressão do choque séptico
-✔ Tratamento e impacto clínico
+
+## 2. Tools 
+  
+* ✔ Definição e evolução da sepse
+* ✔ Principais fatores de risco e diagnóstico
+* ✔ Fisiopatologia e progressão do choque séptico
+* ✔ Tratamento e impacto clínico
 
 :arrow_forward: Palestrantes acadêmicos de medicina:
 Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Caetano
