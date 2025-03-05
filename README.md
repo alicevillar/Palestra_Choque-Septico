@@ -18,7 +18,7 @@ Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Cae
  
 
 
-### REFERÊNCIAS
+### Referências:
 * Coelho BFL, Murad LS, Bragança RD. Manual de Urgências e Emergências. Rede de Ensino Terzi, 2020.
 * Kumar, A. et al. (2006). "Duration of hypotension before initiation of effective antimicrobial therapy is the critical determinant of survival in human septic shock.  Critical Care Medicine.
 Surviving Sepsis Campaign Guidelines (2021).
