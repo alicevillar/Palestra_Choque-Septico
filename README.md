@@ -8,10 +8,10 @@
 ✔ Fisiopatologia e progressão do choque séptico
 ✔ Tratamento e impacto clínico
 
-Palestrantes acadêmicos de medicina:
+:arrow_forward: Palestrantes acadêmicos de medicina:
 Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Caetano
 
-Revisão científica: Dr. Renan Azevedo
+:arrow_forward: Revisão científica: Dr. Renan Azevedo
 Titular do Colégio Brasileiro de Cirurgiões • Staff de Cirurgia Geral – Hospital Central do Exército e Hospital Geral de Nova Iguaçu/RJ
 
 📲 Acesse o material da palestra! 🔗 
