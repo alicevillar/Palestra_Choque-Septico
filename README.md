@@ -1,6 +1,6 @@
 # PALESTRA: CHOQUE SÉPTICO – UM DESAFIO NO ATENDIMENTO MÉDICO
  
-💡 Atualize seus conhecimentos e aprofunde-se no manejo da sepse e do choque séptico!
+Atualize seus conhecimentos e aprofunde-se no manejo da sepse e do choque séptico!
 
 >  Bem-vindo(a) ao repositório oficial da palestra "Choque Séptico – Um Desafio no Atendimento Médico". Este espaço foi criado para disponibilizar todos os materiais visuais de apoio utilizados durante a apresentação, garantindo que você possa revisar e aprofundar seu conhecimento sobre um dos maiores desafios da medicina intensiva.
 
