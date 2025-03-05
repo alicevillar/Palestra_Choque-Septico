@@ -11,10 +11,10 @@
 
 ## 2. Tools 
   
-* ✔ Definição e evolução da sepse
-* ✔ Principais fatores de risco e diagnóstico
-* ✔ Fisiopatologia e progressão do choque séptico
-* ✔ Tratamento e impacto clínico
+* Definição e evolução da sepse
+* Principais fatores de risco e diagnóstico
+* Fisiopatologia e progressão do choque séptico
+* Tratamento e impacto clínico
 
 :arrow_forward: Palestrantes acadêmicos de medicina:
 Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Caetano
