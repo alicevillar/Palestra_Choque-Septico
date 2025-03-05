@@ -13,9 +13,6 @@ Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Cae
 
 ### 📖 Baixe o material exclusivo da palestra: 
 
-
-### 📲 Baixe is slides da apresentação da palestra! 🔗 
-
 * [**Slides da Apresentação PREZI**](https://www.bibliometrix.org/home/) - Acesse os slides utilizados durante a palestra, organizados de forma dinâmica e interativa para facilitar a compreensão dos tópicos abordados.  🔗
 * [**Apostila Didática de Apoio da Palestra**](https://www.scopus.com/) - Um material complementar contendo explicações detalhadas sobre fisiopatologia, diagnóstico e tratamento do choque séptico, incluindo as referências científicas essenciais. 🔗
  
