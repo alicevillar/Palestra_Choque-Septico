@@ -24,7 +24,11 @@ Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Cae
 Surviving Sepsis Campaign Guidelines (2021).
 * Hospital Sírio-Libanês: Protocolo de Sepse e Choque Séptico.
 * Forrester, J. D. (2024, abril). Sepse e choque séptico. Manual MSD Versão para a Família.  https://www.msdmanuals.com/pt/casa/infec%C3%A7%C3%B5es/bacteremia-sepse-e-choque-s%C3%A9ptico/sepse-e-choque-s%C3%A9ptico
-* FoAssociação de Medicina Intensiva Brasileira, & Instituto Latino Americano de Sepse. (s.d.). Conceitos e Epidemiologia da Sepse (A. T. Bafi & F. R. Machado, Coord.). Recuperado de https://cssjd.org.br/imagens/editor/files/2019/Maio/sepse%281%29.pdf
+* Associação de Medicina Intensiva Brasileira, & Instituto Latino Americano de Sepse. (s.d.). Conceitos e Epidemiologia da Sepse (A. T. Bafi & F. R. Machado, Coord.).  
+
+
+* [Associação de Medicina Intensiva Brasileira, & Instituto Latino Americano de Sepse. (s.d.). Conceitos e Epidemiologia da Sepse (A. T. Bafi & F. R. Machado, Coord.)](https://cssjd.org.br/imagens/editor/files/2019/Maio/sepse%281%29.pdf) 
+
 
 
 
