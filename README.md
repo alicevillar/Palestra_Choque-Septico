@@ -11,15 +11,13 @@ Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Cae
 * Titular do Colégio Brasileiro de Cirurgiões <br>
 *  Staff de Cirurgia Geral – Hospital Central do Exército e Hospital Geral de Nova Iguaçu/RJ
 
-## 📖 Baixe o material exclusivo da palestra, com conteúdo aprofundado sobre:
-  
-* Definição e evolução da sepse
-* Principais fatores de risco e diagnóstico
-* Fisiopatologia e progressão do choque séptico
-* Tratamento e impacto clínico
+### 📖 Baixe o material exclusivo da palestra: 
 
-📲 Baixe is slides da apresentação da palestra! 🔗 
 
-💡 Não perca essa oportunidade de aprofundar seus conhecimentos sobre um dos maiores desafios da medicina intensiva!
+### 📲 Baixe is slides da apresentação da palestra! 🔗 
+
+* [**Slides da Apresentação PREZI**](https://www.bibliometrix.org/home/) - Acesse os slides utilizados durante a palestra, organizados de forma dinâmica e interativa para facilitar a compreensão dos tópicos abordados.  🔗
+* [**Apostila Didática de Apoio da Palestra**](https://www.scopus.com/) - Um material complementar contendo explicações detalhadas sobre fisiopatologia, diagnóstico e tratamento do choque séptico, incluindo as referências científicas essenciais. 🔗
+ 
 
 
