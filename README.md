@@ -5,11 +5,7 @@
 
 >  Welcome to the official repository for the paper titled "Supervised Machine Learning Algorithms for Predicting Student Dropout and Academic Success: A Comparative Study." This repository contains the necessary code and data to ensure that the research project is transparent and reproducible.  
 
-
-
-📖 Baixe o material exclusivo da palestra, com conteúdo aprofundado sobre:
-
-## 2. Tools 
+## 📖 Baixe o material exclusivo da palestra, com conteúdo aprofundado sobre:
   
 * Definição e evolução da sepse
 * Principais fatores de risco e diagnóstico
@@ -22,6 +18,6 @@ Alice Villar • Sabrina Costa • Bruno Varella • Suzielly Xavier • Ana Cae
 :arrow_forward: Revisão científica: Dr. Renan Azevedo
 Titular do Colégio Brasileiro de Cirurgiões • Staff de Cirurgia Geral – Hospital Central do Exército e Hospital Geral de Nova Iguaçu/RJ
 
-📲 Acesse o material da palestra! 🔗 
+📲 Baixe is slides da apresentação da palestra! 🔗 
 
 💡 Não perca essa oportunidade de aprofundar seus conhecimentos sobre um dos maiores desafios da medicina intensiva!
