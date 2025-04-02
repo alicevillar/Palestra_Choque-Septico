@@ -14,8 +14,8 @@ Alice Villar • Sabrina Costa • Brenda Paladino • Hélio Oliveira  • Ana 
 ### Baixe o material exclusivo da palestra: 
 
 * 🔗[**Slides da Apresentação PREZI**](https://prezi.com/view/onvseSmrO3kbhcgd3VoD/) - Acesse os slides utilizados durante a palestra, organizados de forma dinâmica e interativa para facilitar a compreensão dos tópicos abordados.
-* 🔗[**Slides da Apresentação PREZI**](https://www.youtube.com/watch?v=t1tM5ZVzIU4) - VIDEO SIMULAÇÃO - ANIMAÇÃO 
-* 🔗[**Slides da Apresentação PREZI**](https://www.youtube.com/watch?v=t1tM5ZVzIU4) - VIDEO EXTRA => A sepse se não tratar ela mata
+* 🔗[**Vídeo Simulação**](https://www.youtube.com/watch?v=t1tM5ZVzIU4) - VIDEO SIMULAÇÃO - ANIMAÇÃO 
+* 🔗[**Vídeo Canal ILAS**](https://www.youtube.com/watch?v=t1tM5ZVzIU4) - VIDEO EXTRA => A sepse se não tratar ela mata
 
 
 
